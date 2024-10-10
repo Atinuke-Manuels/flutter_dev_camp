@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161210275175",
+    "project_id": "blend-6d887",
+    "storage_bucket": "blend-6d887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161210275175:android:d0a92696e49916cc684bc2",
+        "android_client_info": {
+          "package_name": "com.example.blend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkB8bcpksw1w24pxBM611hmHjncG0eAmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161210275175:android:d7d9cacfc3f38c36684bc2",
+        "android_client_info": {
+          "package_name": "com.example.dev_camp_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkB8bcpksw1w24pxBM611hmHjncG0eAmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
